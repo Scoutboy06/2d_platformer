@@ -1,0 +1,58 @@
+{
+  "standard": {
+    "left": [ 1 ],
+    "right": [ 27 ],
+    "top": 16,
+    "bottom": 48
+  },
+  "damage": {
+    "left": [ 1, 51, 98 ],
+    "right": [ 27, 77, 124 ],
+    "top": 63,
+    "bottom": 96,
+    "delay": 100
+  },
+  "attack1": {
+    "left": [ 1, 49, 99, 151, 199, 247 ],
+    "right": [ 27, 75, 121, 183, 237, 271 ],
+    "top": 106,
+    "bottom": 144,
+    "delay": 50
+  },
+  "jump": {
+    "left": [ 4, 52, 102, 148 ],
+    "right": [ 30, 78, 128, 174 ],
+    "top": 397,
+    "bottom": 432,
+    "delay": 100
+  },
+  "fall": {
+    "left": [ 195 ],
+    "right": [ 221 ],
+    "top": 397,
+    "bottom": 432
+  },
+  "land": {
+    "left": [ 246 ],
+    "right": [ 272 ],
+    "top": 397,
+    "bottom": 432,
+    "delay": 1000
+  },
+  "run": {
+    "left": [ 3, 56, 97, 147, 200, 241 ],
+    "right": [ 32, 73, 127, 175, 217, 273 ],
+    "top": 498,
+    "bottom": 528,
+    "delay": 100,
+    "infinite": true
+  },
+  "idle": {
+    "left": [ 1, 49, 96, 144 ],
+    "right": [ 27, 75, 122, 170 ],
+    "top": 592,
+    "bottom": 624,
+    "delay": 200,
+    "infinite": true
+  }
+}

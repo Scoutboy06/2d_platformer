@@ -1,0 +1,13 @@
+{
+  "flag": {
+    "left": [ 5, 53, 101, 149 ],
+    "right": [ 40, 88, 136, 184 ],
+    "top": 0,
+    "bottom": 48,
+    "delay": 100,
+    "animated": true
+  },
+  "star": {
+    "animated": false
+  }
+}

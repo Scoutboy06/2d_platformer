@@ -1,0 +1,461 @@
+[
+  {
+    "texture": [
+      "", false, "",
+      false,   true,
+      "", true, true
+    ]
+  },
+
+  {
+    "texture": [
+      "", false, "",
+      true,   true,
+      true, true, true
+    ]
+  },
+
+  {
+    "texture": [
+      "", false, "",
+      true,   false,
+      true, true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, true,
+      true,       true,
+      true, true, false
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, true,
+      true,   true,
+      "", false, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, true,
+      true,       true,
+      false, true, true
+    ]
+  },
+
+  {
+    "texture": [
+      "", "", "",
+      false,   true,
+      "", "", ""
+    ],
+    "semisolid": true
+  },
+
+  {
+    "texture": [
+      "", "", "",
+      true,   true,
+      "", "", ""
+    ],
+    "semisolid": true
+  },
+
+  {
+    "texture": [
+      "", "", "",
+      true,   false,
+      "", "", ""
+    ],
+    "semisolid": true
+  },
+
+  {},
+
+
+
+
+
+
+
+
+
+
+  {
+    "texture": [
+      "", true, true,
+      false,    true,
+      "", true, true
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, true,
+      true,       true,
+      true, true, true
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, "",
+      true,       false,
+      true, true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, "",
+      true,       false,
+      true, true, ""
+    ]
+  },
+
+  {},
+
+  {
+    "texture": [
+      "", true, true,
+      false,    true,
+      "", true, true
+    ]
+  },
+
+  {
+    "texture": [
+      false, true, true,
+      true,       true,
+      false, true, true
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, true,
+      true,       true,
+      false, true, false
+    ]
+  },
+
+  {
+    "texture": [
+      false, true, true,
+      true,       true,
+      true, true, false
+    ]
+  },
+
+  {},
+
+
+
+
+
+
+
+
+
+
+  {
+    "texture": [
+      "", true, true,
+      false,     true,
+      "", false, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, "",
+      true,       false,
+      true, true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, "",
+      true,       false,
+      "", false, ""
+    ]
+  },
+  
+  {
+    "texture": [
+      true, true, false,
+      true,       true,
+      true, true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      "", false, "",
+      true,       true,
+      true, true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      false, true, true,
+      true,       true,
+      true, true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      true, true, false,
+      true,       true,
+      true, true, false
+    ]
+  },
+  
+  {
+    "texture": [
+      false, true, false,
+      true,       true,
+      true, true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      true, true, false,
+      true,       true,
+      false, true, true
+    ]
+  },
+  
+  {},
+
+
+
+
+
+
+
+
+
+
+  {
+    "texture": [
+      "", false, "",
+      false,     false,
+      "", false, ""
+    ]
+  },
+  
+  {
+    "texture": [
+      "", false, "",
+      false,     true,
+      "", false, ""
+    ]
+  },
+  
+  {
+    "texture": [
+      "", false, "",
+      true,     true,
+      "", false, ""
+    ]
+  },
+  
+  {
+    "texture": [
+      "", false, "",
+      true,     false,
+      "", false, ""
+    ]
+  },
+  
+  {
+    "texture": [
+      false, true, false,
+      true,        true,
+      false, true, false
+    ]
+  },
+  
+  {
+    "texture": [
+      "", true, false,
+      false,        true,
+      "", true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      "", true, false,
+      false,        true,
+      "", true, true
+    ]
+  },
+  
+  {
+    "texture": [
+      "", true, true,
+      false,        true,
+      "", true, false
+    ]
+  },
+  
+  {
+    "texture": [
+      "", "", "",
+      false, false,
+      "", "", ""
+    ],
+    "semisolid": true
+  },
+
+  {},
+
+
+
+
+
+
+
+
+
+
+  {
+    "texture": [
+      "", false, "",
+      true,      true,
+      false, true, true
+    ]
+  },
+
+  {
+    "texture": [
+      "", false, "",
+      true,      true,
+      false, true, false
+    ]
+  },
+  
+  {
+    "texture": [
+      "", false, "",
+      true,      true,
+      true, true, false
+    ]
+  },
+  
+  {
+    "texture": [
+      true, true, "",
+      true,      false,
+      false, true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      false, true, "",
+      true,      false,
+      false, true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      false, true, "",
+      true,      false,
+      true, true, ""
+    ]
+  },
+
+  "slope-incline-right",
+
+  "slope-decrease-right",
+
+  {},
+
+  {},
+
+
+
+
+
+
+
+
+
+
+  {
+    "texture": [
+      false, true, true,
+      true,      true,
+      "", false, ""
+    ]
+  },
+
+  {
+    "texture": [
+      false, true, false,
+      true,      true,
+      "", false, ""
+    ]
+  },
+
+  {
+    "texture": [
+      true, true, false,
+      true,      true,
+      "", false, ""
+    ]
+  },
+
+  {
+    "texture": [
+      "", false, "",
+      false,    false,
+      "", true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      "", true, "",
+      false,    false,
+      "", true, ""
+    ]
+  },
+
+  {
+    "texture": [
+      "", true, "",
+      false,    false,
+      "", false, ""
+    ]
+  },
+
+  "block-under-slope-increase-right",
+
+  "block-under-slope-decrease-right",
+
+  {},
+
+  {}
+]
+
+
+
+
+
+
+
+
+
